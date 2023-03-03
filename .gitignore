@@ -1,0 +1,7 @@
+# back end
+back-end/.idea
+back-end/target
+back-end/*.iml
+
+# front end
+front-end/node_modules

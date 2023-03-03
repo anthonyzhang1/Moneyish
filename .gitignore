@@ -1,5 +1,5 @@
 # back end
-back-end/.idea
+.idea
 back-end/target
 back-end/*.iml
 

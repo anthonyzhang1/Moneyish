@@ -1,10 +1,9 @@
 # Moneyish
-Moneyish is a mock online payment website similar to Venmo. However, real money is not used. \
+Moneyish is a mock online payment website similar to Venmo. Real money is not used. \
 Moneyish allows for users to create accounts, add and withdraw funds from their account balance, send/pay money to other users, and view one's payment history. There is also a live feed of payments other users have made, if they choose to make the payment public.
 
-Moneyish uses Java for the back end, MongoDB for the database, and React for the front end.
-
-Moneyish was created for my university's Software Development course in Fall 2021, where I worked on the website with another student. Our roles are listed in the table below:
+Moneyish uses Java for the back end, MongoDB for the database, and React for the front end. \
+Moneyish was created for my university's Software Development course in Fall 2021, where I worked on the application with another student. Our roles are listed in the table below:
 | Student Name     | GitHub Username  | Role                 |
 | :---:            | :---:            | :---:                |
 | Anthony Zhang    | anthonyzhang1    | Back End Developer   |
